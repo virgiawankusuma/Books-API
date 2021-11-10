@@ -1,0 +1,36 @@
+{
+    "error": false,
+    "message": "success",
+    "books": [
+        {
+            "id": 1,
+            "title": "Laskar Pelangi",
+            "author": "Andrea Hirata"
+        },
+        {
+            "id": 2,
+            "title": "Filosofi Kopi",
+            "author": "Dewi Lestari"
+        },
+        {
+            "id": 3,
+            "title": "Clean Code",
+            "author": "Robert C Martin"
+        },
+        {
+            "id": 4,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "author": "J.K. Rowling"
+        },
+        {
+            "id": 5,
+            "title": "Sang Pemimpi",
+            "author": "Andrea Hirata"
+        },
+        {
+            "id": 6,
+            "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+            "author": "Marijn Haverbeke"
+        }
+    ]
+}
