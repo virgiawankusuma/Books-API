@@ -1,6 +1,6 @@
 {
     "list":{
-        "error": "false",
+        "error": false,
         "message": "success",
         "books": [
           {
@@ -34,7 +34,7 @@
             "author": "Marijn Haverbeke"
           }
         ]
-    },
+      },
     "add":{
         
     }
